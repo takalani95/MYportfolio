@@ -99,6 +99,10 @@
     background-color: #35424a;
     color: white;
   }
+  .project img {
+    max-width: 100%;
+    height: auto;
+  }
 </style>
 <title>Takalani Clarence Mashaba - Portfolio</title>
 </head>
@@ -161,32 +165,28 @@
   <section id="projects">
     <h2>My Projects</h2>
     <div class="project">
-      <img src="https://github.com/takalani95/MYportfolio/raw/main/images.png" alt="Your Image">
-
+      <img src="https://github.com/takalani95/MYportfolio/raw/main/images.png" alt="COVID-19 Pandemic">
       <h3>COVID-19 Pandemic</h3>
-      <p>A comprehensive resource for conducting weekly analyses of COVID-19 data. It serves as a valuable tool for tracking the ongoing developments and trends related to the COVID-19 pandemic. The primary goal is to provide timely and data-driven insights to help researchers, and the general public stay informed.</p>
-      <p>Link: <a href="hhttps://github.com/takalani95/COVID-19-">GitHub</a></p>
+      <p>A comprehensive resource for conducting weekly analyses of COVID-19 data. It serves as a valuable tool for tracking the ongoing developments and trends related to the COVID-19 pandemic. The primary goal is to provide timely and data-driven insights to help researchers and the general public stay informed.</p>
+      <p>Link: <a href="https://github.com/takalani95/COVID-19-">GitHub</a></p>
     </div>
 
     <div class="project">
-      <img src="https://github.com/takalani95/MYportfolio/raw/main/2610d0e2-617b-446f-a2d7-cb30f336ca91.png" alt="Your Image Description">
-
+      <img src="https://github.com/takalani95/MYportfolio/raw/main/2610d0e2-617b-446f-a2d7-cb30f336ca91.png" alt="Yasser Journey Time Prediction">
       <h3>Yasser Journey Time Prediction</h3>
       <p>Developed a machine learning model to predict the estimated time of arrival at the drop-off point for a single Yasser journey. Ride-hailing apps like Uber and Yassir rely on real-time data and machine learning algorithms to automate their services. Accurately predicting the estimated time of arrival (ETA) for Yassir trips will make Yassir’s services more reliable and attractive.</p>
       <p>Link: <a href="https://github.com/takalani95/COVID-19-">GitHub</a></p>
     </div>
 
     <div class="project">
-      <img src="https://github.com/takalani95/MYportfolio/raw/main/download%20(7).png" alt="Your Image Description">
-
+      <img src="https://github.com/takalani95/MYportfolio/raw/main/download%20(7).png" alt="Exchange Rate Forecasting (USD/ZAR)">
       <h3>Exchange Rate Forecasting (USD/ZAR)</h3>
       <p>Forecasting exchange rate data for USD/ZAR (United States Dollar to South African Rand) over a span of several days. I scraped data using BeautifulSoup, performed data analysis, and built a forecasting model with time series models.</p>
       <p>Link: <a href="https://github.com/takalani95/-Exchange_Rate_Forecasting-">GitHub</a></p>
     </div>
 
     <div class="project">
-      <img src="https://github.com/takalani95/MYportfolio/raw/main/50595ab6-6fec-4ee7-9f43-14c989b88251.png" alt="Your Image">
-
+      <img src="https://github.com/takalani95/MYportfolio/raw/main/50595ab6-6fec-4ee7-9f43-14c989b88251.png" alt="QoS Prediction Challenge by ITU AI/ML in 5G Challenge">
       <h3>QoS Prediction Challenge by ITU AI/ML in 5G Challenge</h3>
       <p>Participated in the QoS Prediction Challenge by ITU AI/ML in 5G Challenge. Explored the evolution of wireless communications and machine learning (ML)-based capabilities to provide proactive management of network resources and sustain quality-of-service (QoS) and user experience.</p>
       <p>Link: <a href="https://github.com/takalani95/QoS-Prediction-Challenge-by-ITU-AI-ML-in-5G-Challenge">GitHub</a></p>
@@ -237,4 +237,3 @@
 </footer>
 </body>
 </html>
->
